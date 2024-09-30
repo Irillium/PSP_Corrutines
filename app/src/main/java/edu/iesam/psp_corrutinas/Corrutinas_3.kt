@@ -1,4 +1,4 @@
-package edu.iesam.psp_corrutinas.ui
+package edu.iesam.psp_corrutinas
 
 import kotlinx.coroutines.Deferred
 import kotlinx.coroutines.async
