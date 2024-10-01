@@ -1,4 +1,3 @@
-package edu.iesam.psp_corrutinas
 
 import kotlinx.coroutines.async
 import kotlinx.coroutines.delay
